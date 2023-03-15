@@ -1,5 +1,4 @@
-# readme
-# 💫 About Me:
+# About Me:
 🙆🏻‍♀️Tenho 20 anos<br>👩🏻‍💻 Atualmente trabalho como suporte help desk.<br>📖 Estudando HTML, CSS e JS.<br>💖 Apaixonada por tecnologia e em aprender.
 
 
